@@ -1,0 +1,47 @@
+.parent{
+    background-color: rgb(217, 124, 227);
+    margin: 15px;
+    padding: 15px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(5,100px);
+    gap: 20px 20px;
+
+
+
+}
+
+
+.parent div{
+    padding: 15px;
+   
+}
+
+
+.item1{
+    background-color: rgb(102, 223, 227);
+}
+
+.item2{
+    background-color: cornflowerblue;
+
+}
+
+.item3{
+    background-color:rgb(102, 223, 227);
+
+   
+}
+
+.item4{
+    background-color: cornflowerblue;
+}
+
+.item5{
+    background-color:rgb(102, 223, 227);
+}
+
+.item6{
+    background-color: cornflowerblue;
+}
+
